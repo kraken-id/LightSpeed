@@ -10,6 +10,9 @@ Send Currencies to Kraken to receive KrakenToken wich send tokens to users or co
 - A `Bag` or `Grand` refers to Ḻ1000
 - A `DarkSpeed` refers to Ḻ0.001
 - A `LightPence` or `LightCent` refers to Ḻ0.01
-- A `LightSpeed` refers to Ḻ1 <br>
+- A `LightSpeed` refers to Ḻ1
+## White paper
+- <a href="/lightpaper.pdf">[LightPaper.png]</a>
+<br></br>
 `Kraken.ID LightSpeed Token - 2019`
 </br>
