@@ -5,7 +5,6 @@ Send Currencies to Kraken to receive KrakenToken wich send tokens to users or co
 #### How to get it?
 - The token can be gained by sending a <a href="#blank">accepted currency</a> to the kraken network.
 - Being gifted/paid through it.
-- Buying some in the Store
 #### There are sayings for certain amounts of LightSpeed
 - A `Bag` or `Grand` refers to Ḻ1000
 - A `DarkSpeed` refers to Ḻ0.001
