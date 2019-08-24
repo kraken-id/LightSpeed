@@ -1,4 +1,4 @@
-# LightSpeed
+# ḺightSpeed (LHTS)
 Send Currencies to Kraken to receive KrakenToken wich send tokens to users or convert to another currency and receive it in your address
 - There are no fees or commisions 0.00% 
 ## Token Basic Infomation
