@@ -14,5 +14,6 @@ Send Currencies to Kraken to receive KrakenToken wich send tokens to users or co
 ## White paper
 - <a href="/lightpaper.pdf">[LightPaper.pdf]</a>
 <br></br>
-`Kraken.ID LightSpeed Token - 2019`
+`Kraken.ID LightSpeed Token - 2019` <br></br>
+[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
 </br>
